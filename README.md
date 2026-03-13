@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Druva
 
-<!--
-**druvar-ai/druvar-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML student interested in building practical AI systems and computer vision projects.
 
-Here are some ideas to get you started:
+## Current Focus
+- Python development
+- Computer vision
+- AI/ML fundamentals
+- Real-time detection and tracking systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Face Tracking using OpenCV
+  Real-time face detection and tracking using Python and OpenCV.
+
+## Tech Stack
+Python  
+OpenCV  
+Machine Learning  
+Linux
+
+## Learning Goals
+Building reliable AI systems and improving practical engineering skills through hands-on projects.
