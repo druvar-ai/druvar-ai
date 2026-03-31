@@ -21,6 +21,5 @@ Linux
 ## Learning Goals
 Building reliable AI systems and improving practical engineering skills through hands-on projects.
 
-## Certifications
-Introduction to C Programming – SoloLearn
-![Certificate]https://github.com/druvar-ai/druvar-ai/blob/main/Introduction%20to%20C%20Programming.png
+### Introduction to C Programming – SoloLearn  
+![Certificate](https://raw.githubusercontent.com/druvar-ai/druvar-ai/main/Introduction%20to%20C%20Programming.png)
