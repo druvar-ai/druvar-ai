@@ -22,4 +22,5 @@ Linux
 Building reliable AI systems and improving practical engineering skills through hands-on projects.
 
 ## Certifications
-Introduction to C Programming – SoloLearn (2026)
+Introduction to C Programming – SoloLearn
+![Certificate]
