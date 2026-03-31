@@ -23,4 +23,4 @@ Building reliable AI systems and improving practical engineering skills through 
 
 ## Certifications
 Introduction to C Programming – SoloLearn
-![Certificate]
+![Certificate]https://github.com/druvar-ai/druvar-ai/blob/main/Introduction%20to%20C%20Programming.png
