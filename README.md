@@ -45,4 +45,4 @@ Real-time face detection and tracking system built using Python and OpenCV.
 
 ## Connect with Me
 -  Freelancer: https://www.freelancer.in/u/druvar01?sb=t
--  LinkedIn: linkedin.com/in/druva-r-3b309b3b7
+-  LinkedIn: http://linkedin.com/in/druva-r-3b309b3b7
