@@ -4,7 +4,7 @@ AI/ML student focused on building real-world AI systems, especially in computer 
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### Face Tracking using OpenCV
 Real-time face detection and tracking system built using Python and OpenCV.
@@ -18,7 +18,7 @@ Real-time face detection and tracking system built using Python and OpenCV.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python  
 - OpenCV  
 - Machine Learning  
@@ -26,7 +26,7 @@ Real-time face detection and tracking system built using Python and OpenCV.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 ### Python Core – SoloLearn (2026)
 [View Certificate](https://www.sololearn.com/certificates/CC-29RYKUOV)
@@ -36,14 +36,13 @@ Real-time face detection and tracking system built using Python and OpenCV.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 - Building real-time AI systems  
 - Improving computer vision models  
 - Strengthening problem-solving skills  
 
 ---
 
-## 📫 Connect with Me
-- 💼 Freelancer: (add your link)
-- 🔗 LinkedIn: (add your link)
-- 💻 GitHub: https://github.com/druvar-ai
+## Connect with Me
+-  Freelancer: https://www.freelancer.in/u/druvar01?sb=t
+-  LinkedIn: linkedin.com/in/druva-r-3b309b3b7
