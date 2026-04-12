@@ -29,7 +29,7 @@ Real-time face detection and tracking system built using Python and OpenCV.
 ## Certifications
 
 ### Python Core – SoloLearn (2026)
-[View Certificate](https://raw.githubusercontent.com/druvar-ai/druvar-ai/main/python-certificate.png)
+![Python Certificate](https://api2.sololearn.com/v2/certificates/CC-29RYKUOV/image/png?t=639115938918287990)
 
 ### Introduction to C Programming – SoloLearn (2026)
 ![C Certificate](https://raw.githubusercontent.com/druvar-ai/druvar-ai/main/Introduction%20to%20C%20Programming.png)
