@@ -1,25 +1,49 @@
 # Hi, I'm Druva
 
-AI/ML student interested in building practical AI systems and computer vision projects.
+AI/ML student focused on building real-world AI systems, especially in computer vision and automation.
 
-## Current Focus
-- Python development
-- Computer vision
-- AI/ML fundamentals
-- Real-time detection and tracking systems
+---
 
-## Projects
-- Face Tracking using OpenCV
-  Real-time face detection and tracking using Python and OpenCV.
+## 🚀 Projects
 
-## Tech Stack
-Python  
-OpenCV  
-Machine Learning  
-Linux
+### Face Tracking using OpenCV
+Real-time face detection and tracking system built using Python and OpenCV.
 
-## Learning Goals
-Building reliable AI systems and improving practical engineering skills through hands-on projects.
+**Features:**
+- Real-time webcam face detection  
+- Face recognition and tracking  
+- Modular project structure  
 
-### Introduction to C Programming – SoloLearn  
-![Certificate](https://raw.githubusercontent.com/druvar-ai/druvar-ai/main/Introduction%20to%20C%20Programming.png)
+🔗 [View Project](https://github.com/druvar-ai/face-tracking-opencv)
+
+---
+
+## 🛠 Tech Stack
+- Python  
+- OpenCV  
+- Machine Learning  
+- Linux  
+
+---
+
+## 📜 Certifications
+
+### Python Core – SoloLearn (2026)
+[View Certificate](https://www.sololearn.com/certificates/CC-29RYKUOV)
+
+### Introduction to C Programming – SoloLearn (2026)
+![C Certificate](https://raw.githubusercontent.com/druvar-ai/druvar-ai/main/Introduction%20to%20C%20Programming.png)
+
+---
+
+## 🎯 Current Focus
+- Building real-time AI systems  
+- Improving computer vision models  
+- Strengthening problem-solving skills  
+
+---
+
+## 📫 Connect with Me
+- 💼 Freelancer: (add your link)
+- 🔗 LinkedIn: (add your link)
+- 💻 GitHub: https://github.com/druvar-ai
