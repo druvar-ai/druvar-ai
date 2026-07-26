@@ -1,4 +1,10 @@
 # Hi, I'm Druva
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=druvar-ai&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/druvar-ai?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/druvar-ai?affiliations=OWNER&style=social)
@@ -14,7 +20,7 @@ I'm currently pursuing a Bachelor's degree in Artificial Intelligence and Machin
 ## Featured Projects
 
 ### Face Tracking using OpenCV
-Real-time face detection and tracking system built using Python and OpenCV.
+A real-time face detection and tracking application built with Python and OpenCV, demonstrating computer vision fundamentals and modular software design.
 
 **Features:**
 - Real-time webcam face detection  
@@ -33,7 +39,7 @@ Real-time face detection and tracking system built using Python and OpenCV.
 
 **Backend:** FastAPI
 
-**AI/ML:** OpenCV, Computer Vision, Machine Learning
+**AI/ML:** OpenCV, Computer Vision, Machine Learning, Image Processing
 
 **Database:** MySQL
 
@@ -82,7 +88,7 @@ Real-time face detection and tracking system built using Python and OpenCV.
 
 ## Current Focus
 
-- Real-time Computer Vision
+- Building Production-Ready AI Applications
 - AI-powered Automation Systems
 - FastAPI Backend Development
 - Machine Learning Applications
@@ -96,8 +102,11 @@ Real-time face detection and tracking system built using Python and OpenCV.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=druvar-ai&layout=compact&theme=tokyonight)
 ---
 ## Connect with Me
--  [Freelancer](https://www.freelancer.in/u/druvar01?sb=t)
--  [LinkedIn](https://linkedin.com/in/druva-r-3b309b3b7)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Druva_R-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/druva-r-3b309b3b7)
+
+[![Freelancer](https://img.shields.io/badge/Freelancer-Druva-29B2FE?style=for-the-badge&logo=freelancer)](https://www.freelancer.in/u/druvar01?sb=t)
+
 ---
 
-⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
