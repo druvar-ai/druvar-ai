@@ -5,6 +5,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=druvar-ai&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/druvar-ai?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/druvar-ai?affiliations=OWNER&style=social)
