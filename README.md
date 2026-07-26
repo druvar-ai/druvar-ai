@@ -53,7 +53,7 @@ A real-time face detection and tracking application built with Python and OpenCV
 
 <br>
 
-![Python Developer](https://raw.githubusercontent.com/druvar-ai/druvar-ai/main/Python%20Developer(1).png)
+🔗 https://www.sololearn.com/certificates/CC-0BYGZNIJ
 
 </details>
 
@@ -62,7 +62,7 @@ A real-time face detection and tracking application built with Python and OpenCV
 
 <br>
 
-![Python Intermediate](https://raw.githubusercontent.com/druvar-ai/druvar-ai/main/Python%20Intermediate.png)
+🔗 https://www.sololearn.com/certificates/CC-WPP4RSYD
 
 </details>
 
@@ -71,7 +71,7 @@ A real-time face detection and tracking application built with Python and OpenCV
 
 <br>
 
-![Machine Learning](https://raw.githubusercontent.com/druvar-ai/druvar-ai/main/Machine%20Leaning%20for%20beginners(1).png)
+🔗 https://www.sololearn.com/certificates/CC-LSSQHPUK
 
 </details>
 
@@ -80,7 +80,7 @@ A real-time face detection and tracking application built with Python and OpenCV
 
 <br>
 
-![Research with AI](https://raw.githubusercontent.com/druvar-ai/druvar-ai/main/Research%20with%20AI.png)
+🔗 https://www.sololearn.com/certificates/CC-KHNE0MSW
 
 </details>
 
