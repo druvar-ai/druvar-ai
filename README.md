@@ -99,7 +99,7 @@ A real-time face detection and tracking application built with Python and OpenCV
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=druvar-ai&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=druvar-ai&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=druvar-ai&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 ## Connect with Me
