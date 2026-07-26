@@ -49,38 +49,19 @@ A real-time face detection and tracking application built with Python and OpenCV
 ## Certifications
 
 <details>
-<summary><strong>🐍 Python Developer – SoloLearn (2026)</strong></summary>
+<summary><strong>View My SoloLearn Certifications</strong></summary>
 
-<br>
+- 🐍 **Python Developer** (2026)  
+  https://www.sololearn.com/certificates/CC-0BYGZNIJ
 
-🔗 https://www.sololearn.com/certificates/CC-0BYGZNIJ
+- 🐍 **Python Intermediate** (2026)  
+  https://www.sololearn.com/certificates/CC-WPP4RSYD
 
-</details>
+- 🤖 **Machine Learning for Beginners** (2026)  
+  https://www.sololearn.com/certificates/CC-LSSQHPUK
 
-<details>
-<summary><strong>🐍 Python Intermediate – SoloLearn (2026)</strong></summary>
-
-<br>
-
-🔗 https://www.sololearn.com/certificates/CC-WPP4RSYD
-
-</details>
-
-<details>
-<summary><strong>🤖 Machine Learning for Beginners – SoloLearn (2026)</strong></summary>
-
-<br>
-
-🔗 https://www.sololearn.com/certificates/CC-LSSQHPUK
-
-</details>
-
-<details>
-<summary><strong>🔬 Research with AI – SoloLearn (2026)</strong></summary>
-
-<br>
-
-🔗 https://www.sololearn.com/certificates/CC-KHNE0MSW
+- 🔬 **Research with AI** (2026)  
+  https://www.sololearn.com/certificates/CC-KHNE0MSW
 
 </details>
 
